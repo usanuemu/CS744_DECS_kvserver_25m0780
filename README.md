@@ -8,7 +8,6 @@ This project is a two-tier key-value store built in C++ & uses PostgreSQL as dat
 
 `https://github.com/usanuemu/CS744_DECS_kvserver_25m0780`
 
----
 
 ## System Architecture
 
@@ -20,7 +19,7 @@ The system is divided into three separate programs:
 
 ![image](images/system_architecture.png)
 
-## Memory-Based Request
+### Memory-Based Request
 
 In case of LRU cache hit, the value of requested `key` is accessed and returned by accessing the on-memory cache.
 ```
