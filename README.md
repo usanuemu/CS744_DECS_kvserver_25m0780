@@ -6,7 +6,7 @@ This project is a two-tier key-value store built in C++ & uses PostgreSQL as dat
 
 ## Repository
 
-`https://github.com/usanuemu/`
+`https://github.com/usanuemu/CS744_DECS_kvserver_25m0780`
 
 ---
 
